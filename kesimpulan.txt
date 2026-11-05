@@ -1,0 +1,7 @@
+ANALISIS PENJUALAN TOKO - DATA SIMULASI
+Baris awal: 1500; baris valid: 1500; metode kosong diisi: 30.
+Total omzet: Rp 39,895,500
+Produk terlaris berdasarkan unit: Pulpen (913 unit).
+Bulan omzet tertinggi: 2025-10 (Rp 3,703,500).
+Omzet adalah jumlah x harga satuan, bukan laba.
+Hasil hanya menggambarkan data simulasi, bukan kondisi pasar nyata.
